@@ -2,7 +2,7 @@
 
 2. Complete the decoder truth table for **common anode** (active low) 7-segment display.
 
-![seg](cviceni3/png/seg.png)
+![seg](https://github.com/Keshaay/DE1/blob/main/cviceni3/png/seg.png)
 
    | **Symbol** | **Inputs** | **a** | **b** | **c** | **d** | **e** | **f** | **g** |
    | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
