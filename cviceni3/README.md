@@ -2,7 +2,7 @@
 
 2. Complete the decoder truth table for **common anode** (active low) 7-segment display.
 
-![https://lastminuteengineers.com/seven-segment-arduino-tutorial/](images/7-Segment-Display-Number-Formation-Segment-Contol.png)
+![[https://lastminuteengineers.com/seven-segment-arduino-tutorial/](https://www.google.com/search?sca_esv=892c4cd35690ed09&sxsrf=ACQVn09HZW9bi0OL0FBha9eaDDMZYQRZNA:1708545094859&q=images/7-Segment-Display-Number-Formation-Segment-Control.png)&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjluNi7mr2EAxUd8QIHHdwDBcQQ0pQJegQIDRAB&biw=964&bih=914&dpr=1#imgrc=jw0XZImENYglZM)].
 
    | **Symbol** | **Inputs** | **a** | **b** | **c** | **d** | **e** | **f** | **g** |
    | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
