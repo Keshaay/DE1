@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../comparator.srcs/sources_1/new/compare_2bit.vhd" \
+"../../../../comparator.srcs/sim_1/new/tb_compare_2bit.vhd" \
+
+# Do not sort compile order
+nosort

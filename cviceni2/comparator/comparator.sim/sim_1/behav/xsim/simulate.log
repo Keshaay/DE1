@@ -1,0 +1,14 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Note: Simulation STARTED..
+Time: 0 ps  Iteration: 0  Process: /tb_compare_2bit/stimuli  File: C:/Users/243505/Documents/comparator/comparator.srcs/sim_1/new/tb_compare_2bit.vhd
+Error: combination 0 1 FAILED...
+Time: 200 ns  Iteration: 0  Process: /tb_compare_2bit/stimuli  File: C:/Users/243505/Documents/comparator/comparator.srcs/sim_1/new/tb_compare_2bit.vhd
+Error: combination 0 0 FAILED...
+Time: 300 ns  Iteration: 0  Process: /tb_compare_2bit/stimuli  File: C:/Users/243505/Documents/comparator/comparator.srcs/sim_1/new/tb_compare_2bit.vhd
+Error: combination 0 0 FAILED...
+Time: 400 ns  Iteration: 0  Process: /tb_compare_2bit/stimuli  File: C:/Users/243505/Documents/comparator/comparator.srcs/sim_1/new/tb_compare_2bit.vhd
+Error: combination 0 0 FAILED...
+Time: 500 ns  Iteration: 0  Process: /tb_compare_2bit/stimuli  File: C:/Users/243505/Documents/comparator/comparator.srcs/sim_1/new/tb_compare_2bit.vhd
+Warning: Simulation DONE..
+Time: 500 ns  Iteration: 0  Process: /tb_compare_2bit/stimuli  File: C:/Users/243505/Documents/comparator/comparator.srcs/sim_1/new/tb_compare_2bit.vhd
