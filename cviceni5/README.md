@@ -7,4 +7,4 @@
    | 500&nbsp;ms |  |  |  |
    | 1&nbsp;sec | 100_000_000 | `x"5F5_E100"` | `b"0101_1111_0101_1110_0001_0000_0000"` | 27 |
 
-   ![pmods](images/pmod_table.png)
+   ![pmods](C:\Users\2012m\Documents\DE1\DE1\cviceni5\Screenshot_1.png)
