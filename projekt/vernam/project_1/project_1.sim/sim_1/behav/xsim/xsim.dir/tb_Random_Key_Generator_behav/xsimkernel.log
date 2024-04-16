@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_Random_Key_Generator_behav/xsimk.exe -simmode gui -wdb tb_Random_Key_Generator_behav.wdb -simrunnum 0 -socket 51761
+Design successfully loaded
+Design Loading Memory Usage: 7072 KB (Peak: 7072 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 7556 KB (Peak: 7556 KB)
+Simulation CPU Usage: 92 ms
