@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/vernam/provernam/provernam.srcs/sim_1/new/VernamCipher_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'VernamCipher_tb'
+ERROR: [VRFC 10-8605] 'to_stdlogicvector' has 2 possible matching identifiers [D:/vernam/provernam/provernam.srcs/sim_1/new/VernamCipher_tb.vhd:75]
+ERROR: [VRFC 10-9458] unit 'tb' is ignored due to previous errors [D:/vernam/provernam/provernam.srcs/sim_1/new/VernamCipher_tb.vhd:11]
+INFO: [VRFC 10-8704] VHDL file 'D:/vernam/provernam/provernam.srcs/sim_1/new/VernamCipher_tb.vhd' is ignored due to errors
